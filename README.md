@@ -12,7 +12,7 @@ You want to dress up your room with a little greenery, but dont have time or pat
 Succulents are the EASIEST plants to have. Leave them on your windowsill and water them about once a week, and you're good!  
 
 ```markdown
-**TIPS TO KEEP IN MIND**
+## TIPS TO KEEP IN MIND
 
 1. _Give yourself some grace!_
 Taking care of plants is a learning process. It's okay to fail, but it's more important to keep trying! No one is perfect!
