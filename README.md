@@ -31,7 +31,8 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 6. Pick Up Limes
 -If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
 
-![image](https://user-images.githubusercontent.com/70280321/92188657-31849b80-ee2b-11ea-9a62-4ab11d0a72a8.png)
+![image](https://user-images.githubusercontent.com/70280321/92189387-8379f100-ee2c-11ea-814d-7f3b39b08b37.png)
+
 [Link](https://www.youtube.com/watch?app=desktop&v=LZhnCxG5c6s)
 ```
 
