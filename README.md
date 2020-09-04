@@ -30,8 +30,9 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 -Picture This is an app that allows you to take a picture of any plant and tells you all about it and how to take care of them! It's free on all devices!
 6. Pick Up Limes
 -If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
+
 ![image](https://user-images.githubusercontent.com/70280321/92188657-31849b80-ee2b-11ea-9a62-4ab11d0a72a8.png)
-[Link](https://www.youtube.com/watch?v=LZhnCxG5c6s)
+[Link](https://www.youtube.com/watch?app=desktop&v=LZhnCxG5c6s)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
