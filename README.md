@@ -1,5 +1,5 @@
-<h1>Pot it Like it's Hot!
-A College Guide to Easy Plants</h1>
+<h1>A College Guide to Easy Plants</h1>
+![image](https://user-images.githubusercontent.com/70280321/92186868-1ebb9800-ee26-11ea-9b6f-c8779f324db6.png)
 
 ## I get it!
 
