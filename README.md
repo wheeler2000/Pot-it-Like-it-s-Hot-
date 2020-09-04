@@ -57,5 +57,7 @@ TIPS TO KEEP IN MIND
 6. Pick Up Limes
 -If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
 ```
+![image](https://user-images.githubusercontent.com/70280321/92193524-92fe3780-ee36-11ea-9ea5-9e7bf33b990a.png)
 To watch the video see [Plant care for Beginners]https://www.youtube.com/watch?v=LZhnCxG5c6s&t=4s).
 
+Happy planting! I'm ROOTING for you!
