@@ -30,7 +30,7 @@ Peace Lily's are great for air purifying and are so pretty to look at! It does w
 Snake plants are strong, tall leaved plants also known as the mother-in-law's tongue. They do well in normal room temperature and can survive in a wide range of sunlight exposure. Be careful of overwatering this guy! If the top few inches of the soil is dry, water it. Otherwise, leave it alone.
 
 ### Rubber Tree
-![image](https://user-images.githubusercontent.com/70280321/92192912-056e1800-ee35-11ea-9c8a-a8cd0e8fe44f.png)
+![image](https://user-images.githubusercontent.com/70280321/92192912-056e1800-ee35-11ea-9c8a-a8cd0e8fe44f.png) ![image](https://user-images.githubusercontent.com/70280321/92192993-3d755b00-ee35-11ea-9f3e-61f0a306ba60.png)
 
 
 Rubber trees may not look very mighty at first, but do not be fooled. These guys can grow up to 8-feet tall! That means that once you move out of your dorm, you can have a bigger pop of color to dress up a room. They like medium to bright light exposure and need their soil to be completely dry before watering again. Plus, they have a shiny finish look on their leaves!
