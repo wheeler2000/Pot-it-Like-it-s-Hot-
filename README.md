@@ -12,17 +12,24 @@ You want to dress up your room with a little greenery, but dont have time or pat
 Succulents are the EASIEST plants to have. Leave them on your windowsill and water them about once a week, and you're good!  
 
 ```markdown
-Syntax highlighted code block
+**TIPS TO KEEP IN MIND**
 
-# Pot it Like it's Hot!
-## Header 2
-### Header 3
+1. _Give yourself some grace!_
+Taking care of plants is a learning process. It's okay to fail, but it's more important to keep trying! No one is perfect!
+2. _Set an alarm on your phone to remind you to water your plants._
+Life gets chaotic, especially nowadays, so set a little reminder!
+3. _Buy the Right Pot! Size Matters!_
+When you purchase a pot for your plant, make sure it is bigger in diameter by at least a few inches. Leave room for the little guy to grow.
+4. _The internet is your Friend!_
+If you ever get confused, research! There are so many resources to help you out. 
+5. _Picture This!_
+Picture This is an app that allows you to take a picture of any plant and tells you all about it and how to take care of them! It's free on all devices!
+6. _Pick Up Limes_
+If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
+[Link](https://www.youtube.com/watch?v=LZhnCxG5c6s)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
