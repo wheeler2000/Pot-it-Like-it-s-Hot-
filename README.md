@@ -14,6 +14,8 @@ You want to dress up your room with a little greenery, but dont have time or pat
 Succulents are the EASIEST plants to have. Leave them on your windowsill and water them about once a week, and you're good!  
 
 ### Fine Like Vines
+![image](https://user-images.githubusercontent.com/70280321/92192042-2a618b80-ee33-11ea-8207-5e3888760806.png)
+
 
 Golden pathos are extremely resilient, even when forgotten about for a bit. They do not require much sunlight and vine out like crazy. Also, they are very easy to propogate. This can save you money in the long run! This is very true for all philodendrons.
 
