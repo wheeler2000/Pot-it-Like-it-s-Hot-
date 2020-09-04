@@ -20,6 +20,7 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 Golden pathos are extremely resilient, even when forgotten about for a bit. They do not require much sunlight and vine out like crazy. Also, they are very easy to propogate. This can save you money in the long run! This is very true for all philodendrons.
 
 ### Peace Lily
+![image](https://user-images.githubusercontent.com/70280321/92192672-8082fe80-ee34-11ea-95ec-acfdd1ba0838.png)
 
 Peace Lily's are great for air purifying and are so pretty to look at! It does well in low light and low humidity, so it doesnt have to be right in the window. This opens up a range of places you can put it in your dorm!
 
