@@ -41,21 +41,21 @@ TIPS TO KEEP IN MIND
 
 1. Give yourself some grace!
 -Taking care of plants is a learning process. It's okay to fail, but it's more important to keep trying! No one is perfect!
+
 2. Set an alarm on your phone to remind you to water your plants.
 -Life gets chaotic, especially nowadays, so set a little reminder!
+
 3. Buy the Right Pot! Size Matters!
 -When you purchase a pot for your plant, make sure it is bigger in diameter by at least a few inches. Leave room for the little guy to grow.
+
 4. The internet is your Friend!
 -If you ever get confused, research! There are so many resources to help you out. 
+
 5. Picture This!
 -Picture This is an app that allows you to take a picture of any plant and tells you all about it and how to take care of them! It's free on all devices!
+
 6. Pick Up Limes
 -If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
-
-![image](https://user-images.githubusercontent.com/70280321/92189387-8379f100-ee2c-11ea-814d-7f3b39b08b37.png)
-
-[Plant care for Beginners](https://www.youtube.com/watch?v=LZhnCxG5c6s&t=4s) 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To watch the video see [Plant care for Beginners]https://www.youtube.com/watch?v=LZhnCxG5c6s&t=4s).
 
