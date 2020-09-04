@@ -17,6 +17,18 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 
 Golden pathos are extremely resilient, even when forgotten about for a bit. They do not require much sunlight and vine out like crazy. Also, they are very easy to propogate. This can save you money in the long run! This is very true for all philodendrons.
 
+### Peace Lily
+
+Peace Lily's are great for air purifying and are so pretty to look at! It does well in low light and low humidity, so it doesnt have to be right in the window. This opens up a range of places you can put it in your dorm!
+
+### Snake Plant
+
+Snake plants are strong, tall leaved plants also known as the mother-in-law's tongue. They do well in normal room temperature and can survive in a wide range of sunlight exposure. Be careful of overwatering this guy! If the top few inches of the soil is dry, water it. Otherwise, leave it alone.
+
+### Rubber Tree
+
+Rubber trees may not look very mighty at first, but do not be fooled. These guys can grow up to 8-feet tall! That means that once you move out of your dorm, you can have a bigger pop of color to dress up a room. They like medium to bright light exposure and need their soil to be completely dry before watering again. Plus, they have a shiny finish look on their leaves!
+
 ```markdown
 ### TIPS TO KEEP IN MIND
 
@@ -35,15 +47,8 @@ Golden pathos are extremely resilient, even when forgotten about for a bit. They
 
 ![image](https://user-images.githubusercontent.com/70280321/92189387-8379f100-ee2c-11ea-814d-7f3b39b08b37.png)
 
-[https://www.youtube.com/watch?app=desktop&v=LZhnCxG5c6s](url)
+[Pick Up Limes](https://www.youtube.com/watch?v=LZhnCxG5c6s).
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wheeler2000/wheeler2000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
