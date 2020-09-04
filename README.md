@@ -25,7 +25,8 @@ Golden pathos are extremely resilient, even when forgotten about for a bit. They
 Peace Lily's are great for air purifying and are so pretty to look at! It does well in low light and low humidity, so it doesnt have to be right in the window. This opens up a range of places you can put it in your dorm!
 
 ### Snake Plant
-![image](https://user-images.githubusercontent.com/70280321/92192781-c2ac4000-ee34-11ea-9100-932531e6fd48.png)
+![image](https://user-images.githubusercontent.com/70280321/92192781-c2ac4000-ee34-11ea-9100-932531e6fd48.png) ![image](https://user-images.githubusercontent.com/70280321/92193055-639afb00-ee35-11ea-809d-d72ad9741305.png)
+
 
 Snake plants are strong, tall leaved plants also known as the mother-in-law's tongue. They do well in normal room temperature and can survive in a wide range of sunlight exposure. Be careful of overwatering this guy! If the top few inches of the soil is dry, water it. Otherwise, leave it alone.
 
