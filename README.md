@@ -8,7 +8,8 @@ College life is hard- I get it! My freshman year of college, there was absolutel
 You want to dress up your room with a little greenery, but dont have time or patience for constant care? Here is a list of some easy-care plants that wont break the bank and will thrive in a dorm environment!
 
 ### SUCC it Up, Buttercup!
-[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhg.com%2Fgardening%2Fhouseplants%2Fcare%2Fhow-to-water-succulents%2F&psig=AOvVaw0LF5hd4cx2bAWhWr4WExBY&ust=1599268646758000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKja4ZGqzusCFQAAAAAdAAAAABAD)
+![image](https://user-images.githubusercontent.com/70280321/92188645-2a5d8d80-ee2b-11ea-90e4-6293a90bc626.png)
+
 
 Succulents are the EASIEST plants to have. Leave them on your windowsill and water them about once a week, and you're good!  
 
@@ -29,9 +30,8 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 -Picture This is an app that allows you to take a picture of any plant and tells you all about it and how to take care of them! It's free on all devices!
 6. Pick Up Limes
 -If you want to watch a video on the beginnings of plant care, here is the link to one of my favorite vegan minimalist youtubers, Sadia. She is super knowledgable, experienced, and overall a great online mentor. Check her out!
+![image](https://user-images.githubusercontent.com/70280321/92188657-31849b80-ee2b-11ea-9a62-4ab11d0a72a8.png)
 [Link](https://www.youtube.com/watch?v=LZhnCxG5c6s)
-[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY-txjbuLX9k&psig=AOvVaw2jgNqTJN3hokI1y9mpj-Ju&ust=1599268243304000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDh0dSozusCFQAAAAAdAAAAABAD)
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
