@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+<h1>Pot it Like it's Hot!
+A College Guide to Easy Plants</h1>
 
-You can use the [editor on GitHub](https://github.com/wheeler2000/wheeler2000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## I get it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+College life is hard- I get it! My freshman year of college, there was absolutely nothing green about my thumbs... at all. I had classes, clubs, intramural sports, and zero time to take care of anything but myself (mind you, it was a struggle.) But I loved having plants around whether to brighten up the room, clean the air, or to just simply look at. I locked myself to my chair and began researching easier plants to take care of.
 
-### Markdown
+You want to dress up your room with a little greenery, but dont have time or patience for constant care? Here is a list of some easy-care plants that wont break the bank and will thrive in a dorm environment!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SUCC it Up, Buttercup!
+
+Succulents are the EASIEST plants to have. Leave them on your windowsill and water them about once a week, and you're good!  
 
 ```markdown
 Syntax highlighted code block
