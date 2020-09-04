@@ -49,7 +49,7 @@ Rubber trees may not look very mighty at first, but do not be fooled. These guys
 
 ![image](https://user-images.githubusercontent.com/70280321/92189387-8379f100-ee2c-11ea-814d-7f3b39b08b37.png)
 
-[Pick Up Limes](https://www.youtube.com/watch?v=LZhnCxG5c6s).
+[Plant care for Beginners](https://www.youtube.com/watch?v=LZhnCxG5c6s&t=4s) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
