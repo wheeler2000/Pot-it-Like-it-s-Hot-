@@ -33,7 +33,7 @@ Succulents are the EASIEST plants to have. Leave them on your windowsill and wat
 
 ![image](https://user-images.githubusercontent.com/70280321/92189387-8379f100-ee2c-11ea-814d-7f3b39b08b37.png)
 
-[Link](https://www.youtube.com/watch?app=desktop&v=LZhnCxG5c6s)
+[https://www.youtube.com/watch?app=desktop&v=LZhnCxG5c6s](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
