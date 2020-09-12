@@ -61,3 +61,17 @@ TIPS TO KEEP IN MIND
 To watch the video see [Plant care for Beginners](https://www.youtube.com/watch?v=LZhnCxG5c6s&t=4s).
 
 Happy planting! I'm ROOTING for you!
+
+
+### My Personal Learning Plan for the Semester
+1. I would like to begin with Python. Since it is used the most widely within the ISAT program, I think it would be beneficial to learn in order to set me up for success.
+2. Since Professor Benton is the most skilled in Javascript, I want to take this opportunity to learn from him. After learning the basics of Python, I want to try to learn Javascript. Plus, it diversifies my portfolio and gives me more valuable experience. 
+```markdown
+WEEKLY GOALS IN ORDER FOR MY PLAN TO SUCCEED:
+1. Spend at least 15 minutes a day trying to code.
+2. Ask questions! 
+3. Prioritize this class and learning experience!
+4. Work with team members to solve for issues
+5. Go above and beyond. It is your education and you get out of it what you put into it. 
+6. Update my website each week with new programs (Hello, World for now).
+```
