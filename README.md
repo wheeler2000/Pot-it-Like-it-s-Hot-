@@ -74,6 +74,9 @@ WEEKLY GOALS IN ORDER FOR MY PLAN TO SUCCEED:
 4. Work with team members to solve for issues
 5. Go above and beyond. It is your education and you get out of it what you put into it. 
 6. Update my website each week with new programs (Hello, World for now).
+
+Moving Forward:
+I have decided to switch between Python and Javascript each week. Since I could only find the Basic Javascript training on Free Code Camp, I am starting with Javascript. 
 ```
 ![image](https://user-images.githubusercontent.com/70280321/92989660-b020af00-f4a3-11ea-939d-99f92a5da2ca.png)![image](https://user-images.githubusercontent.com/70280321/92989660-b020af00-f4a3-11ea-939d-99f92a5da2ca.png)
 ### IMPORTANT LINKS TO MY REPOSITORIES!
